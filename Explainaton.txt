@@ -1,0 +1,73 @@
+Hi Sam,
+
+I have attached a schematic of the orrery. I think a few words of 
+explanation might help. I don't know your expertise so please bear with 
+me if I am telling you things you already know.
+
+The black bits are fixed and do not move. The clear rectangles are 
+gears. The green bits are arms which support the planets. The red bits 
+are tube both 5 and 6mm. The pale blue bits are axles (4mm) which join 
+some of the gears rigidly.
+
+The grey rod (could be tube) is 4mm diameter and takes  the drive from 
+the bottom up to the sun into which it is fixed. I use 4mm steel rod 
+from B&Q. The first gear in the series (just under the sun) is fixed to 
+this rod and rotates with the sun.
+
+This driving rod rotates inside a 5mm OD brass tube which is fixed 
+solidly to the base and does itself not revolve.
+
+The black platform supporting the outer pair of the 4 gears in each unit 
+is fixed solidly to the 5mm tube and hence does not rotate. These gears 
+are fixed together with the blue axles which rotate inside a short bit 
+of 5mm tubing which is a press fit into the wooden support. This makes a 
+good bearing.
+
+Apart from the first gear the inner pair of  gears is fixed to a short 
+length of 6mm OD brass tube which makes a revolving fit on the 5mm fixed 
+tube. In between these two gears and fixed to the 6mm is the support arm 
+for the planet.
+
+I have shown the drive chain to include two bevel gears. You probably 
+noticed in my unit the wooden bevel gears of which I am not proud. They 
+will be replaced with 3d printed ones. Alternatively if you want to do 
+away with them altogether you can operate the orrery by turning the sun 
+by hand.
+
+Most of the gears are press fits onto the tubes and axles and this works 
+quite well. If you are concerned a little bit of glue will really fix 
+them.
+
+The biggest problem is the is the black gear supports. Again these were 
+press fits to the grey rod but disassembly became tedious and when done 
+several times they became looser and looser. Maybe some form of grub 
+screw to fix them to the 5mm tube?
+
+No lubrication is necessary as the tubes and rods rotate nicely around  
+each other. If you get precision brass tube with 0.45 mm wall they all 
+nest nicely together. Readily available on eBay and some model shops.
+
+If you mount the whole thing on a big base it should be pretty robust.
+
+No ball bearings were harmed in this project.
+
+  All the gears in my system are  Module 2.0 except where noted on the 
+diagram. Plenty of explanations of gear Module on the internet. If you 
+wanted to stick with my ratios but wanted a bigger or smaller instrument 
+you would just need to scale all the gears by the same factor.
+
+If you haven't fallen asleep yet I will pack it in now. I am sure you 
+will have some questions.
+
+Generating the gear ratios to give reasonably precise orbital ratios is 
+not trivial. If you want my values I can send them next time. I used a 
+computer program I wrote to calculate all possible teeth counts for each 
+of the 4 gears to the precision I wanted. It worked by brute force and 
+took several minutes and hundred of thousands of calculations before it 
+came up with and answer  which I might then reject because of other 
+considerations. How people did it before computers I don't know.
+
+Good luck
+
+Nigel
+
